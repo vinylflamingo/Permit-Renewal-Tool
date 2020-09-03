@@ -1,0 +1,81 @@
+﻿What do we need to do? 
+
+Renew permits with a easier interface 
+
+steps to renew permit:
+
+load account
+check for suspension 
+change exp dates 
+change status 
+add note 
+submit 
+
+Conditions 
+
+if account is suspended and balance is $0 set to active
+if account is suspended and balance is > 0. set dates but keep suspension. 
+
+
+interface 
+
+load button/ list count / account # / name / address/ status / NR FLAG / outstanding balance / 
+renew button status active
+renew with status No Response NP 
+
+
+
+sql commands
+
+// find alarm accounts with web updated status 
+select AlarmNo from ALARM_LICENSES
+where currentStatus = 'Web-Updated' 
+
+
+
+
+Calculating outstanding balance 
+
+SELECT SUM(Charge - ((payment - refund) + adjudication)) As tOwed FROM ALARM_ACTIONS WHERE LicType = 'AR' AND AlarmNo = '130744'
+
+
+
+Updating server with new info 
+UPDATE ALARM_LICENSES 
+SET dateIssued = GETDATE(), dateExpires = '2020-12-31 00:00:00.000',  
+WHERE AlarmNo = 
+
+
+
+
+				StringBuilder stringBuilder = new StringBuilder("UPDATE ALARM_LICENSES SET ");
+				stringBuilder.Append("currentStatus = ? , dateStatus = ? , ");
+				stringBuilder.Append("dateIssued = ? , dateExpires = ? , Beat = ? , ");
+				stringBuilder.Append("monitoredBy = ? , SoldBy = ? , ServicedBy = ? , InstalledBy = ? , ");
+				stringBuilder.Append("SpecialWatch = ? , updated = ? , ");
+				stringBuilder.Append("updatedBy = ? , ");
+				stringBuilder.Append("custom1 =  ? , custom2 =  ? , custom3 =  ? , custom4 =  ? , custom5 =  ? , custom6 =  ? , ");
+				stringBuilder.Append("comments = ? , ");
+				stringBuilder.Append("Notes = ? , PreviouslyRegistered = ?, RestrictedInfo = ?, email = ? , ");
+				stringBuilder.Append("Bankrupt = ?, BankruptType = ?, BadAddress = ? , SpecialWatchReason = ? , Agency = ?, ");
+				stringBuilder.Append("LastNameMetaPhone = ?, LastNameSoundex = ?, ");
+
+
+updating changes issue date, expiring date, updated by, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\f0\fs20 [7/18/2019 2:22:45 PM fcostoya] CALLED TO RENEW\par
+\par
+}

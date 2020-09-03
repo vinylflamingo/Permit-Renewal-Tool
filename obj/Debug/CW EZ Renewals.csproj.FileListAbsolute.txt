@@ -1,0 +1,26 @@
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\bin\Debug\CW EZ Renewals.exe.config
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\bin\Debug\CW EZ Renewals.exe.manifest
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\bin\Debug\CW EZ Renewals.application
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\bin\Debug\CW EZ Renewals.exe
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\bin\Debug\CW EZ Renewals.pdb
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\obj\Debug\CW_EZ_Renewals.mainFrm.resources
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\obj\Debug\CW_EZ_Renewals.Properties.Resources.resources
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\obj\Debug\CW EZ Renewals.csproj.GenerateResource.cache
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\obj\Debug\CW EZ Renewals.exe.manifest
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\obj\Debug\CW EZ Renewals.application
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\obj\Debug\CW EZ Renewals.exe
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\obj\Debug\CW EZ Renewals.pdb
+C:\Users\francisco.costoya\Documents\GitHub\PetSet\CW EZ Renewals\obj\Debug\CW EZ Renewals.csprojAssemblyReference.cache
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\bin\Debug\CW EZ Renewals.exe.config
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\bin\Debug\CW EZ Renewals.exe.manifest
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\bin\Debug\CW EZ Renewals.application
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\bin\Debug\CW EZ Renewals.exe
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\bin\Debug\CW EZ Renewals.pdb
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\obj\Debug\CW EZ Renewals.csprojAssemblyReference.cache
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\obj\Debug\CW_EZ_Renewals.mainFrm.resources
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\obj\Debug\CW_EZ_Renewals.Properties.Resources.resources
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\obj\Debug\CW EZ Renewals.csproj.GenerateResource.cache
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\obj\Debug\CW EZ Renewals.exe.manifest
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\obj\Debug\CW EZ Renewals.application
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\obj\Debug\CW EZ Renewals.exe
+C:\Users\francisco.costoya\Documents\GitHub\Permit-Renewal-Tool\obj\Debug\CW EZ Renewals.pdb
